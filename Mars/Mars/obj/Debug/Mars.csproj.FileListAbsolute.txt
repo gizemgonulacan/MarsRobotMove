@@ -1,0 +1,7 @@
+C:\MyProject\Mars\Mars\bin\Debug\Mars.exe.config
+C:\MyProject\Mars\Mars\bin\Debug\Mars.exe
+C:\MyProject\Mars\Mars\bin\Debug\Mars.pdb
+C:\MyProject\Mars\Mars\obj\Debug\Mars.csprojAssemblyReference.cache
+C:\MyProject\Mars\Mars\obj\Debug\Mars.csproj.CoreCompileInputs.cache
+C:\MyProject\Mars\Mars\obj\Debug\Mars.exe
+C:\MyProject\Mars\Mars\obj\Debug\Mars.pdb

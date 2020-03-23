@@ -1,0 +1,11 @@
+C:\MyProject\Mars\RobotMoving\bin\Debug\robot9.png
+C:\MyProject\Mars\RobotMoving\bin\Debug\RobotMoving.exe.config
+C:\MyProject\Mars\RobotMoving\bin\Debug\RobotMoving.exe
+C:\MyProject\Mars\RobotMoving\bin\Debug\RobotMoving.pdb
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.csprojAssemblyReference.cache
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.Form1.resources
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.Properties.Resources.resources
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.csproj.GenerateResource.cache
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.csproj.CoreCompileInputs.cache
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.exe
+C:\MyProject\Mars\RobotMoving\obj\Debug\RobotMoving.pdb
